@@ -1,0 +1,103 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin-left: 70px;
+}
+.color-green{
+    color: greenyellow;
+    font-size: larger;
+}
+.font-size{
+    font-size: 60px;
+    margin-left: 5px;
+   
+    
+}
+.explore-now{
+    background-image: linear-gradient(orange , white);
+    border-radius: 20px;
+    text-decoration: none;
+}
+.border-one{
+    border-left: 4px solid orange;
+
+}
+section{
+    display: flex;
+    margin: 20px;
+}
+#mission-my{
+    text-align: center;
+    font-size: 40px;
+   
+}
+span{
+    color: lightgreen;
+}
+.innovation-pic{
+    width: 30%;
+    background-color: lightslategrey ;
+    padding-left: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+
+}
+.innovation-pic img{
+    width: 50%;
+    margin-bottom: 5px;
+    
+}
+.three-part{
+    display: flex;
+}
+#color-name{
+    background-color: mediumaquamarine;
+}
+#color-name1{
+    background-color: papayawhip;
+}
+.coading-pic {
+    width: 32%;
+    
+    padding-left: 40px;
+    
+}
+.coading-pic img{
+    width: 80%;
+}
+.font-style{
+    font-size: 700;
+}
+.develop-limit{
+    padding-right: 70px;
+}
+.docu-read{
+    background-image: linear-gradient(orange ,red);
+    text-decoration: none;
+    border-radius: 20%;
+}
+.know-our{
+   
+    font-size: 700;
+}
+.project-png{
+    width: 32%;
+}
+.project-png img{
+    width: 80%;
+    
+    padding-left: 60px;
+}
+.text-align{
+   text-align: center;
+}
+.bride-app{
+    padding-left: 30%;
+}
+footer{
+    color: white;
+    text-align: center;
+    background-color: black;
+    padding-bottom: 20px;
+    margin-top: 20px;
+}
